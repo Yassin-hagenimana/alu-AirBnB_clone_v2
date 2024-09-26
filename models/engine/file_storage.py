@@ -11,7 +11,6 @@ from models.review import Review
 import shlex
 
 
-
 class FileStorage:
     """This class serializes instances to a JSON file and
     deserializes JSON file to instances
